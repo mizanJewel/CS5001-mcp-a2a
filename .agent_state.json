@@ -1,0 +1,21 @@
+{
+  "last_review": {
+    "summary": "No changes detected; nothing to review.",
+    "category": "chore",
+    "risk": "low",
+    "issues": [],
+    "strengths": [],
+    "recommended_action": "no_action",
+    "action_justification": "Since there is no diff provided, there are no code modifications to evaluate, so no action is required.",
+    "diff": "[no diff]",
+    "changed_files": []
+  },
+  "last_plan": {
+    "action": "no_action",
+    "justification": "No significant issues found",
+    "risk": "low",
+    "issue_count": 0
+  },
+  "last_diff": "[no diff]",
+  "changed_files": []
+}
